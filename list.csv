@@ -83,9 +83,9 @@ id,street,nr,stiege,floor,placement,pub,qty
 81,Hasenauerstraße,22,.,.,POSTKASTEN,DIE PRESSE,1
 82,Hasenauerstraße,26,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
 83,Hasenauerstraße,26,.,.,POSTKASTEN,Kurier,3
-84,Hasenauerstraße,32,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
-85,Hasenauerstraße,32,.,.,AUF FUSSMATTE intern,DER STANDARD,1
-86,Hasenauerstraße,32,.,.,AUF FUSSMATTE intern,Kurier,1
+84,Blaasstraße,2,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
+85,Blaasstraße,2,.,.,AUF FUSSMATTE intern,DER STANDARD,1
+86,Blaasstraße,2,.,.,AUF FUSSMATTE intern,Kurier,1
 87,Hasenauerstraße,34,.,.,AUF FUSSMATTE intern,DER STANDARD,1
 88,Hasenauerstraße,34,.,.,POSTKASTEN,KRONE,1
 89,Hasenauerstraße,36,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
