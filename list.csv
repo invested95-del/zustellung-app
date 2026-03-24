@@ -27,7 +27,9 @@ id,street,nr,stiege,floor,placement,pub,qty
 25,Cottagegasse,53,.,-/5,AUF FUSSMATTE intern,FALTER,1
 26,Cottagegasse,53A,.,02-May,AUF FUSSMATTE,KRONE,1
 27,Cottagegasse,59,.,.,AUF FUSSMATTE intern,SN,1
-28,Cottagegasse,72,.,.,POSTKASTEN,Kurier,3
+28,Cottagegasse,72,.,.,POSTKASTEN,Kurier,1
+,Cottagegasse,54,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
+,Cottagegasse,54,.,.,POSTKASTEN,Kurier,3
 29,Felix-Mottl-Straße,11,.,.,Eingang Betrieb/Lokal,DIE PRESSE,1
 30,Felix-Mottl-Straße,13,.,-/2,Ztg. in Postkasten einstecken,DIE PRESSE,1
 31,Felix-Mottl-Straße,14,.,.,AUF FUSSMATTE intern,FALTER,1
@@ -96,8 +98,6 @@ id,street,nr,stiege,floor,placement,pub,qty
 94,Hasenauerstraße,14,.,02-May,POSTKASTEN,DIE PRESSE,1
 95,Hasenauerstraße,16,.,-/EH,Unterer Postkasten,DIE PRESSE,1
 96,Hasenauerstraße,22,.,.,POSTKASTEN,DIE PRESSE,1
-97,Cottagegasse,54,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
-98,Cottagegasse,54,.,.,POSTKASTEN,Kurier,3
 99,Blaasstraße,2,.,.,AUF FUSSMATTE intern,DER STANDARD,1
 100,Blaasstraße,2,.,.,AUF FUSSMATTE intern,DIE PRESSE,1
 101,Blaasstraße,2,.,.,AUF FUSSMATTE intern,Kurier,1
