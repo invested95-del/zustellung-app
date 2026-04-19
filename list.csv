@@ -1,4 +1,4 @@
-# Zustellung 20.04.2026 | 218 entries | Generated from: 22 074_192 20.04.2026.csv
+# Zustellung 20.04.2026 | 219 entries | Generated from: 22_074_192_20_04_2026.pdf
 id,street,nr,stiege,floor,placement,pub,qty
 1,Arbesbachgasse,15-17,.,1/11,AUF FUSSMATTE,KRONE,1
 2,Arbesbachgasse,21,.,-/4,AUF FUSSMATTE- intern,Kurier,1
@@ -21,6 +21,7 @@ id,street,nr,stiege,floor,placement,pub,qty
 19,Blaasstraße,4,.,EG/2,POSTKASTEN,Kurier,1
 20,Blaasstraße,6,.,-/3,ZEITUNGSROLLE,KRONE,1
 21,Blaasstraße,7,.,2/4,Wohnungstuere,DIE PRESSE,1
+22,Cottagegasse,53A,.,2/5,AUF FUSSMATTE,KRONE,1
 23,Cottagegasse,59,.,.,AUF FUSSMATTE- intern,SN,1
 24,Cottagegasse,72,.,.,POSTKASTEN,Kurier,1
 25,Felix-Mottl-Straße,11,.,.,Eingang Betrieb/Lokal,DIE PRESSE,1
