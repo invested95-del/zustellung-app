@@ -1,4 +1,4 @@
-# Zustellung 18.05.2026 | 209 entries | 216 papers | Generated from: 22 074_192 18.05.2026.csv
+# Zustellung 19.05.2026 | 205 entries | 212 papers | Generated from: 22 074_192 19.05.2026.csv
 id,street,nr,stiege,floor,placement,pub,qty
 1,Arbesbachgasse,15-17,.,1/11,AUF FUSSMATTE,KRONE,1
 2,Arbesbachgasse,15-17,.,1/6,AUF FUSSMATTE- intern,Kurier,1
@@ -8,12 +8,12 @@ id,street,nr,stiege,floor,placement,pub,qty
 6,Arbesbachgasse,4,3,1/8,AUSSENBRIEFFACHANLAGE,KRONE,1
 7,Arbesbachgasse,4,4,1/5,AUSSENBRIEFFACHANLAGE,Kurier,1
 8,Arbesbachgasse,6,.,2/6,POSTKASTEN,Kurier,1
-9,Billrothstraße,79,.,-/1,Zeitungsrolle neben Haustor,OE-B,1
-10,Billrothstraße,79,.,-/1,HAUSTÜR,KRONE,1
+9,Billrothstraße,79,.,-/1,HAUSTÜR,KRONE,1
+10,Billrothstraße,79,.,-/1,Zeitungsrolle neben Haustor,OE-B,1
 11,Billrothstraße,79,.,-/7,POSTKASTEN,Kurier,1
 12,Billrothstraße,79A,2,EG/15,POSTKASTEN,KRONE,1
-13,Billrothstraße,83,.,2/11,AUF FUSSMATTE- intern,KLEINE ZTG/ENNS,1
-14,Billrothstraße,83,.,2/11,WOHNUNGSTÜR,KRONE,1
+13,Billrothstraße,83,.,2/11,WOHNUNGSTÜR,KRONE,1
+14,Billrothstraße,83,.,2/11,AUF FUSSMATTE- intern,KLEINE ZTG/ENNS,1
 15,Billrothstraße,83,.,DG/26,vor die Wohnungstuere,PRESSE,1
 16,Blaasstraße,19,.,-/EH,POSTKASTEN,PRESSE,1
 17,Blaasstraße,4,.,EG/2,POSTKASTEN,Kurier,1
@@ -36,64 +36,64 @@ id,street,nr,stiege,floor,placement,pub,qty
 34,Felix-Mottl-Straße,15,.,TOP/3,AUSSENBRIEFFACHANLAGE,Kurier,1
 35,Felix-Mottl-Straße,17,.,.,AUF FUSSMATTE- intern,PRESSE,1
 36,Felix-Mottl-Straße,17,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-37,Felix-Mottl-Straße,31,.,3/7,Wohnungstüre,DER STANDARD,1
-38,Felix-Mottl-Straße,32,.,-/4,AUF FUSSMATTE- intern,PRESSE,1
-39,Felix-Mottl-Straße,32,.,EG/1,POSTKASTEN,Kurier,1
-40,Felix-Mottl-Straße,39,.,.,AUSSENBRIEFFACHANLAGE,Kurier,1
+37,Felix-Mottl-Straße,29A,.,-/1,vor WT,PRESSE,1
+38,Felix-Mottl-Straße,31,.,3/7,Wohnungstüre,DER STANDARD,1
+39,Felix-Mottl-Straße,32,.,-/4,AUF FUSSMATTE- intern,PRESSE,1
+40,Felix-Mottl-Straße,32,.,EG/1,POSTKASTEN,Kurier,1
 41,Felix-Mottl-Straße,39,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-42,Felix-Mottl-Straße,4,.,-/1,AUF FUSSMATTE- intern,PRESSE,1
-43,Felix-Mottl-Straße,41,.,1/3,AUF FUSSMATTE- intern,PRESSE,1
-44,Felix-Mottl-Straße,46,1,4/4,AUF FUSSMATTE- intern,PRESSE,1
-45,Felix-Mottl-Straße,47,.,-/3,POSTKASTEN,KLEINE ZTG/ENNS,1
-46,Felix-Mottl-Straße,48,1,1/4,HAUSBRIEFFACHANLAGE,Kurier,1
-47,Felix-Mottl-Straße,48,2,-/4,HBFA (Hausbrieffachanlage),STANDARDKOMPAKT,1
-48,Friedlgasse,10,.,.,AUF FUSSMATTE- intern,OE-B,1
-49,Friedlgasse,10,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-50,Friedlgasse,10,.,-/1,POSTKASTEN,Kurier,1
-51,Friedlgasse,11,.,4/12,AUF FUSSMATTE,Kurier,1
-52,Friedlgasse,22,.,.,PK,SN,1
-53,Friedlgasse,36,.,3/5,AUF FUSSMATTE- intern,PRESSE,1
-54,Friedlgasse,36,.,3/5,AUF FUSSMATTE- intern,Kurier,1
-55,Friedlgasse,40,.,-/11,POSTKASTEN,Kurier,1
-56,Friedlgasse,40,.,2/18,AUF FUSSMATTE- intern,DER STANDARD,1
-57,Friedlgasse,52,.,-/4,AUF FUSSMATTE- intern,PRESSE,1
-58,Friedlgasse,9,.,-/14,AUF FUSSMATTE- intern,DER STANDARD,1
-59,Gregor-Mendel-Straße,38,.,EG/1,AUF FUSSMATTE- intern,DER STANDARD,1
-60,Gregor-Mendel-Straße,38,.,EG/1,POSTKASTEN,PRESSE,1
-61,Gregor-Mendel-Straße,40,.,-/1,vor die Wohnungstuere zustellen,PRESSE,1
-62,Gregor-Mendel-Straße,44,.,-/4,AUF FUSSMATTE,KRONE,1
-63,Gregor-Mendel-Straße,50,Betr,.,AUF FUSSMATTE- intern,OOEN,1
-64,Gustav-Tschermak-Gasse,23,.,-/EH,AUF FUSSMATTE- intern,PRESSE,1
-65,Gustav-Tschermak-Gasse,25,.,-/EH,POSTKASTEN,PRESSE,1
-66,Gustav-Tschermak-Gasse,26,.,.,POSTKASTEN,KRONE,1
-67,Gustav-Tschermak-Gasse,28,.,.,AUF FUSSMATTE- intern,PRESSE,1
-68,Gustav-Tschermak-Gasse,31,H.B,2/5,WOHNUNGSTÜR,Kurier,1
-69,Gustav-Tschermak-Gasse,34,.,-/1,AUF FUSSMATTE- intern,FRKFT,1
+42,Felix-Mottl-Straße,39,.,.,AUSSENBRIEFFACHANLAGE,Kurier,1
+43,Felix-Mottl-Straße,4,.,-/1,AUF FUSSMATTE- intern,PRESSE,1
+44,Felix-Mottl-Straße,41,.,1/3,AUF FUSSMATTE- intern,PRESSE,1
+45,Felix-Mottl-Straße,46,1,4/4,AUF FUSSMATTE- intern,PRESSE,1
+46,Felix-Mottl-Straße,47,.,-/3,POSTKASTEN,KLEINE ZTG/ENNS,1
+47,Felix-Mottl-Straße,48,1,1/4,HAUSBRIEFFACHANLAGE,Kurier,1
+48,Felix-Mottl-Straße,48,2,-/4,HBFA (Hausbrieffachanlage),STANDARDKOMPAKT,1
+49,Friedlgasse,10,.,.,AUF FUSSMATTE- intern,OESTERREICH,1
+50,Friedlgasse,10,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
+51,Friedlgasse,10,.,-/1,POSTKASTEN,Kurier,1
+52,Friedlgasse,11,.,4/12,AUF FUSSMATTE,Kurier,1
+53,Friedlgasse,22,.,.,PK,SN,1
+54,Friedlgasse,36,.,3/5,AUF FUSSMATTE- intern,PRESSE,1
+55,Friedlgasse,36,.,3/5,AUF FUSSMATTE- intern,Kurier,1
+56,Friedlgasse,40,.,-/11,POSTKASTEN,Kurier,1
+57,Friedlgasse,40,.,2/18,AUF FUSSMATTE- intern,DER STANDARD,1
+58,Friedlgasse,52,.,-/4,AUF FUSSMATTE- intern,PRESSE,1
+59,Friedlgasse,9,.,-/14,AUF FUSSMATTE- intern,DER STANDARD,1
+60,Gregor-Mendel-Straße,38,.,EG/1,AUF FUSSMATTE- intern,DER STANDARD,1
+61,Gregor-Mendel-Straße,38,.,EG/1,POSTKASTEN,PRESSE,1
+62,Gregor-Mendel-Straße,40,.,-/1,vor die Wohnungstuere zustellen,PRESSE,1
+63,Gregor-Mendel-Straße,44,.,-/4,AUF FUSSMATTE,KRONE,1
+64,Gregor-Mendel-Straße,50,Betr,.,AUF FUSSMATTE- intern,OOEN,1
+65,Gustav-Tschermak-Gasse,23,.,-/EH,AUF FUSSMATTE- intern,PRESSE,1
+66,Gustav-Tschermak-Gasse,25,.,-/EH,POSTKASTEN,PRESSE,1
+67,Gustav-Tschermak-Gasse,26,.,.,POSTKASTEN,KRONE,1
+68,Gustav-Tschermak-Gasse,28,.,.,AUF FUSSMATTE- intern,PRESSE,1
+69,Gustav-Tschermak-Gasse,31,H.B,2/5,WOHNUNGSTÜR,Kurier,1
 70,Gustav-Tschermak-Gasse,34,.,-/1,AUF FUSSMATTE- intern,DER STANDARD,1
-71,Gymnasiumstraße,71,.,-/12,AUF FUSSMATTE- intern,DER STANDARD,1
-72,Gymnasiumstraße,71,.,1/2,AUSSENBRIEFFACHANLAGE,Kurier,1
-73,Gymnasiumstraße,73,.,-/EH,Brieffach,PRESSE,1
-74,Gymnasiumstraße,77,.,-/1,AUF FUSSMATTE- intern,DER STANDARD,1
-75,Gymnasiumstraße,77,.,2/3,WOHNUNGSTÜR,Kurier,1
-76,Gymnasiumstraße,77,.,EG/1,auf die Fussmatte,PRESSE,1
-77,Gymnasiumstraße,83,1,.,AUF FUSSMATTE- intern,PRESSE,2
+71,Gustav-Tschermak-Gasse,34,.,-/1,AUF FUSSMATTE- intern,FRKFT,1
+72,Gymnasiumstraße,71,.,-/12,AUF FUSSMATTE- intern,DER STANDARD,1
+73,Gymnasiumstraße,71,.,1/2,AUSSENBRIEFFACHANLAGE,Kurier,1
+74,Gymnasiumstraße,73,.,-/EH,Brieffach,PRESSE,1
+75,Gymnasiumstraße,77,.,-/1,AUF FUSSMATTE- intern,DER STANDARD,1
+76,Gymnasiumstraße,77,.,2/3,WOHNUNGSTÜR,Kurier,1
+77,Gymnasiumstraße,77,.,EG/1,auf die Fussmatte,PRESSE,1
 78,Gymnasiumstraße,83,1,.,AUF FUSSMATTE- intern,DER STANDARD,1
-79,Hasenauerstraße,14,.,2/5,POSTKASTEN,PRESSE,1
-80,Hasenauerstraße,16,.,-/EH,Unterer Postkasten,PRESSE,1
-81,Hasenauerstraße,22,.,.,POSTKASTEN,PRESSE,1
-82,Cottagegasse,54,.,.,POSTKASTEN,Kurier,3
+79,Gymnasiumstraße,83,1,.,AUF FUSSMATTE- intern,PRESSE,2
+80,Hasenauerstraße,14,.,2/5,POSTKASTEN,PRESSE,1
+81,Hasenauerstraße,16,.,-/EH,Unterer Postkasten,PRESSE,1
+82,Hasenauerstraße,22,.,.,POSTKASTEN,PRESSE,1
 83,Cottagegasse,54,.,.,AUF FUSSMATTE- intern,PRESSE,1
-84,Hasenauerstraße,28,.,EG/4,POSTKASTEN,PRESSE,1
-85,Blaasstraße,2,.,.,AUF FUSSMATTE- intern,Kurier,1
-86,Blaasstraße,2,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-87,Hasenauerstraße,34,.,.,POSTKASTEN,KRONE,1
-88,Hasenauerstraße,34,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-89,Hasenauerstraße,6,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-90,Hasenauerstraße,8,.,1/5,vor die Wohnungstuere,PRESSE,1
-91,Hutweidengasse,13,.,3/4,POSTKASTEN,Kurier,1
-92,Hutweidengasse,15,.,2/5,ZEITUNGSROLLE,PRESSE,1
-93,Hutweidengasse,17,.,2/7,AUF FUSSMATTE,KRONE,1
-94,Hutweidengasse,6,.,2/4,AUF FUSSMATTE- intern,BOV,1
+84,Cottagegasse,54,.,.,POSTKASTEN,Kurier,3
+85,Hasenauerstraße,28,.,EG/4,POSTKASTEN,PRESSE,1
+86,Hasenauerstraße,30,.,1/3,POSTKASTEN,PRESSE,1
+87,Blaasstraße,2,.,.,AUF FUSSMATTE- intern,Kurier,1
+88,Blaasstraße,2,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
+89,Hasenauerstraße,34,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
+90,Hasenauerstraße,34,.,.,POSTKASTEN,KRONE,1
+91,Hasenauerstraße,6,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
+92,Hasenauerstraße,8,.,1/5,vor die Wohnungstuere,PRESSE,1
+93,Hutweidengasse,13,.,3/4,POSTKASTEN,Kurier,1
+94,Hutweidengasse,17,.,2/7,AUF FUSSMATTE,KRONE,1
 95,Hutweidengasse,7,2,2/5,WOHNUNGSTÜR,Kurier,1
 96,Krottenbachstraße,12,.,1/6,ZTG IN DAS SACKERL VORM HAUS,Kurier,1
 97,Krottenbachstraße,29,.,3/11,AUF FUSSMATTE- intern,Kurier,1
@@ -109,16 +109,16 @@ id,street,nr,stiege,floor,placement,pub,qty
 107,Lannerstraße,20,.,.,ZEITUNGSROLLE,DER STANDARD,1
 108,Lannerstraße,23,.,1/5,AUF FUSSMATTE- intern,DER STANDARD,1
 109,Lannerstraße,23,.,1/7,AUF FUSSMATTE,KRONE,1
-110,Lannerstraße,24-26,.,-/4,AUF FUSSMATTE- intern,BOV,1
-111,Lannerstraße,25,.,-/5,Postkasten beim Eingang,PRESSE,1
-112,Lannerstraße,25,.,-/5,AUF FUSSMATTE- intern,DER STANDARD,1
-113,Lannerstraße,25,.,1/4,in den Postkasten,PRESSE,1
-114,Lannerstraße,25B,.,EG/1,POSTKASTEN,PRESSE,1
-115,Lannerstraße,30,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
-116,Lannerstraße,36,.,-/6,AUF FUSSMATTE,Kurier,1
-117,Lannerstraße,36,.,2/19,AUF FUSSMATTE- intern,PRESSE,1
-118,Lannerstraße,36,.,EG/7,POSTKASTEN,PRESSE,1
-119,Lannerstraße,8,2,3/212,AUF FUSSMATTE,Kurier,1
+110,Lannerstraße,25,.,-/5,Postkasten beim Eingang,PRESSE,1
+111,Lannerstraße,25,.,-/5,AUF FUSSMATTE- intern,DER STANDARD,1
+112,Lannerstraße,25,.,1/4,in den Postkasten,PRESSE,1
+113,Lannerstraße,25B,.,EG/1,POSTKASTEN,PRESSE,1
+114,Lannerstraße,30,.,.,AUF FUSSMATTE- intern,DER STANDARD,1
+115,Lannerstraße,36,.,-/6,AUF FUSSMATTE,Kurier,1
+116,Lannerstraße,36,.,2/19,AUF FUSSMATTE- intern,PRESSE,1
+117,Lannerstraße,36,.,EG/7,POSTKASTEN,PRESSE,1
+118,Lannerstraße,8,2,3/212,AUF FUSSMATTE,Kurier,1
+119,Lannerstraße,9,.,.,POSTKASTEN,KRONE,1
 120,Leidesdorfgasse,1,1,3/5,Wohnungstuere,PRESSE,1
 121,Leidesdorfgasse,14,.,TOP/13,AUSSENBRIEFFACHANLAGE,Kurier,1
 122,Leidesdorfgasse,15-17,1,4/11,AUF FUSSMATTE,KRONE,1
@@ -126,7 +126,7 @@ id,street,nr,stiege,floor,placement,pub,qty
 124,Leidesdorfgasse,19,.,1/2,AUSSENBRIEFFACHANLAGE,KRONE,1
 125,Leidesdorfgasse,19,.,1/2,AUSSENBRIEFFACHANLAGE,Kurier,1
 126,Leidesdorfgasse,4,17,3/13,ZEITUNGSBOX VOR DER WOHNUNGSTÜRE,KRONE,1
-127,Leidesdorfgasse,4,18,1/6,vor die wohnungstür,OESTERREICH,1
+127,Leidesdorfgasse,4,18,1/6,vor die wohnungstür,OE-B,1
 128,Leidesdorfgasse,4A,.,1/5,POSTKASTEN,Kurier,1
 129,Leidesdorfgasse,7,.,-/11,ZEITUNGSBOX,Kurier,1
 130,Linneplatz,4,.,.,AUF FUSSMATTE- intern,KRONE,1
@@ -150,62 +150,58 @@ id,street,nr,stiege,floor,placement,pub,qty
 148,Obkirchergasse,2-6,4,1/6,AUF FUSSMATTE,KRONE,1
 149,Obkirchergasse,2-6,4,2/7,WT- Kundin ist Gehbehindert,OESTERREICH,1
 150,Obkirchergasse,2-6,5,1/4,AUF FUSSMATTE,Kurier,1
-151,Obkirchergasse,3,.,-/7,AUF FUSSMATTE- intern,BOV,1
-152,Obkirchergasse,37-39,2,-/7,WOHNUNGSTÜRE /ZEITUNGSROLLE,KRONE,1
-153,Obkirchergasse,38,4,2/11,AUF FUSSMATTE,Kurier,1
-154,Obkirchergasse,41,.,4/9,vor die Wohnungstuere 3 Stock Tür 9,PRESSE,1
-155,Obkirchergasse,41,.,EG/3,AUF FUSSMATTE- intern,Kurier,1
-156,Obkirchergasse,5,.,3/21,POSTKASTEN,KLEINE ZTG/ENNS,1
-157,Obkirchergasse,7,.,-/13,AUF FUSSMATTE- intern,DER STANDARD,1
-158,Obkirchergasse,7,.,5/23,AUF FUSSMATTE,Kurier,1
-159,Obkirchergasse,9,.,5/16,AUF FUSSMATTE,Kurier,1
-160,Obkirchergasse,9,.,EG/16,unbedingt vor Wohnungstuere,PRESSE,1
-161,Peter-Jordan-Straße,17,.,1/4,Wohnungstüre,STANDARDKOMPAKT,1
-162,Peter-Jordan-Straße,21,.,-/EH,POSTKASTEN,PRESSE,1
-163,Peter-Jordan-Straße,21,.,1/4,AUF FUSSMATTE- intern,BOV,1
-164,Peter-Jordan-Straße,25,.,2/3,AUF FUSSMATTE,Kurier,1
-165,Peter-Jordan-Straße,25,.,2/3,vor WT Türmatte!,PRESSE,1
-166,Peter-Jordan-Straße,27,.,1/4,vor die Wohnungstuere,PRESSE,1
-167,Peter-Jordan-Straße,29,Schule,.,AUF FUSSMATTE- intern,PRESSE,1
-168,Peter-Jordan-Straße,29,Schule,1/29,AUF FUSSMATTE- intern,PRESSE,1
-169,Peter-Jordan-Straße,31,.,3/5,AUF FUSSMATTE- intern,DER STANDARD,1
-170,Peter-Jordan-Straße,33,.,-/2,ZEITUNGSBOX,Kurier,1
-171,Peter-Jordan-Straße,39,H.1,2/1,Postkasten Klingler Tuer1,PRESSE,1
-172,Peter-Jordan-Straße,41,.,-/1,AUF FUSSMATTE,Kurier,1
-173,Peter-Jordan-Straße,41,.,3/8,POSTKASTEN,Kurier,1
-174,Peter-Jordan-Straße,49,.,-/EH,"Postkasten, Zeitungsrolle",PRESSE,1
-175,Peter-Jordan-Straße,51,H.B,-/3,AUF FUSSMATTE- intern,PRESSE,1
-176,Peter-Jordan-Straße,7,1,-/115,POSTKASTEN,PRESSE,1
-177,Peter-Jordan-Straße,7,1,-/148,Wohnungstüre (Lift vorhanden),DER STANDARD,1
-178,Peter-Jordan-Straße,7,1,-/161,WOHNUNGSTÜR,Kurier,1
-179,Peter-Jordan-Straße,7,1,-/RH,POSTKASTEN,PRESSE,1
-180,Peter-Jordan-Straße,7,1,4/128,AUF FUSSMATTE,Kurier,1
-181,Sieveringer Straße,5,.,.,AUF FUSSMATTE- intern,PRESSE,1
-182,Sieveringer Straße,5,Betr,.,POSTKASTEN IM HAUS,KRONE,1
-183,Sonnbergplatz,1,Bank,.,FOYER MIT BANKOMATKARTE - UNTEN SCHLITZ,Kurier,1
-184,Sonnbergplatz,3,.,4/9,vor die Wohnungstüre,PRESSE,1
-185,Sonnbergplatz,5A,1,3/6,AUSSENBRIEFFACHANLAGE,KRONE,1
-186,Sonnbergplatz,5A,H.4,.,AUSSENBRIEFFACHANLAGE,Kurier,1
-187,Sonnbergplatz,5A,H.4,.,AUF FUSSMATTE- intern,DER STANDARD,1
-188,Sonnbergplatz,6,.,2/15,AUF FUSSMATTE,KRONE,1
-189,Sonnbergplatz,7,.,1/12,WOHNUNGSTÜR,KRONE,1
-190,Vegagasse,10,.,-/3,AUF FUSSMATTE- intern,DER STANDARD,1
-191,Vegagasse,12,.,-/PT,POSTKASTEN,PRESSE,1
-192,Vegagasse,15,.,1/3,WOHNUNGSTÜR,KRONE,1
-193,Vegagasse,15,.,1/5,vor die Wohnungstuere,PRESSE,1
-194,Vegagasse,16,.,-/EH,POSTKASTEN,PRESSE,1
-195,Vegagasse,17,.,-/2,ZEITUNGSROLLE,Kurier,1
-196,Vegagasse,2,.,-/EH,POSTKASTEN,PRESSE,1
-197,Vegagasse,21,.,-/3,POSTKASTEN,PRESSE,1
-198,Vegagasse,21,.,1/6,in den Postkasten,PRESSE,1
-199,Vegagasse,3,.,-/1,in den Postkasten mit dem Namen KÖB,PRESSE,1
-200,Vegagasse,4,.,.,POSTKASTEN,Kurier,1
-201,Weimarer Straße,100,.,-/2,AUF FUSSMATTE- intern,DER STANDARD,1
-202,Weimarer Straße,71,.,.,POSTKASTEN,KRONE,1
-203,Weimarer Straße,87,.,.,AUF FUSSMATTE- intern,PRESSE,1
-204,Weimarer Straße,88,.,.,POSTKASTEN,Kurier,1
-205,Weimarer Straße,96,.,.,POSTKASTEN,KRONE,1
-206,Weimarer Straße,98,.,-/3,AUF FUSSMATTE,Kurier,1
-207,Weimarer Straße,98,.,1/5,AUF FUSSMATTE,Kurier,1
-208,Weinberggasse,1,.,4/13,AUF FUSSMATTE,Kurier,1
-209,Weinberggasse,1,.,5/17,AUF FUSSMATTE,Kurier,1
+151,Obkirchergasse,37-39,2,-/7,WOHNUNGSTÜRE /ZEITUNGSROLLE,KRONE,1
+152,Obkirchergasse,38,4,2/11,AUF FUSSMATTE,Kurier,1
+153,Obkirchergasse,41,.,4/9,vor die Wohnungstuere 3 Stock Tür 9,PRESSE,1
+154,Obkirchergasse,41,.,EG/3,AUF FUSSMATTE- intern,Kurier,1
+155,Obkirchergasse,5,.,3/21,POSTKASTEN,KLEINE ZTG/ENNS,1
+156,Obkirchergasse,7,.,-/13,AUF FUSSMATTE- intern,DER STANDARD,1
+157,Obkirchergasse,7,.,5/23,AUF FUSSMATTE,Kurier,1
+158,Obkirchergasse,9,.,5/16,AUF FUSSMATTE,Kurier,1
+159,Obkirchergasse,9,.,EG/16,unbedingt vor Wohnungstuere,PRESSE,1
+160,Peter-Jordan-Straße,17,.,1/4,Wohnungstüre,STANDARDKOMPAKT,1
+161,Peter-Jordan-Straße,25,.,2/3,AUF FUSSMATTE,Kurier,1
+162,Peter-Jordan-Straße,25,.,2/3,vor WT Türmatte!,PRESSE,1
+163,Peter-Jordan-Straße,27,.,1/4,vor die Wohnungstuere,PRESSE,1
+164,Peter-Jordan-Straße,29,Schule,.,AUF FUSSMATTE- intern,PRESSE,1
+165,Peter-Jordan-Straße,29,Schule,1/29,AUF FUSSMATTE- intern,PRESSE,1
+166,Peter-Jordan-Straße,31,.,3/5,AUF FUSSMATTE- intern,DER STANDARD,1
+167,Peter-Jordan-Straße,33,.,-/2,ZEITUNGSBOX,Kurier,1
+168,Peter-Jordan-Straße,39,H.1,2/1,Postkasten Klingler Tuer1,PRESSE,1
+169,Peter-Jordan-Straße,41,.,-/1,AUF FUSSMATTE,Kurier,1
+170,Peter-Jordan-Straße,41,.,3/8,POSTKASTEN,Kurier,1
+171,Peter-Jordan-Straße,49,.,-/EH,"Postkasten, Zeitungsrolle",PRESSE,1
+172,Peter-Jordan-Straße,51,H.B,-/3,AUF FUSSMATTE- intern,PRESSE,1
+173,Peter-Jordan-Straße,7,1,-/115,POSTKASTEN,PRESSE,1
+174,Peter-Jordan-Straße,7,1,-/148,Wohnungstüre (Lift vorhanden),DER STANDARD,1
+175,Peter-Jordan-Straße,7,1,-/161,WOHNUNGSTÜR,Kurier,1
+176,Peter-Jordan-Straße,7,1,-/RH,POSTKASTEN,PRESSE,1
+177,Peter-Jordan-Straße,7,1,4/128,AUF FUSSMATTE,Kurier,1
+178,Sieveringer Straße,5,.,.,AUF FUSSMATTE- intern,PRESSE,1
+179,Sieveringer Straße,5,Betr,.,POSTKASTEN IM HAUS,KRONE,1
+180,Sonnbergplatz,1,Bank,.,FOYER MIT BANKOMATKARTE - UNTEN SCHLITZ,Kurier,1
+181,Sonnbergplatz,5A,1,3/6,AUSSENBRIEFFACHANLAGE,KRONE,1
+182,Sonnbergplatz,5A,H.4,.,AUF FUSSMATTE- intern,DER STANDARD,1
+183,Sonnbergplatz,5A,H.4,.,AUSSENBRIEFFACHANLAGE,Kurier,1
+184,Sonnbergplatz,6,.,2/15,AUF FUSSMATTE,KRONE,1
+185,Sonnbergplatz,7,.,1/12,WOHNUNGSTÜR,KRONE,1
+186,Vegagasse,10,.,-/3,AUF FUSSMATTE- intern,DER STANDARD,1
+187,Vegagasse,12,.,-/PT,POSTKASTEN,PRESSE,1
+188,Vegagasse,15,.,1/3,WOHNUNGSTÜR,KRONE,1
+189,Vegagasse,15,.,1/5,vor die Wohnungstuere,PRESSE,1
+190,Vegagasse,16,.,-/EH,POSTKASTEN,PRESSE,1
+191,Vegagasse,17,.,-/2,ZEITUNGSROLLE,Kurier,1
+192,Vegagasse,2,.,-/EH,POSTKASTEN,PRESSE,1
+193,Vegagasse,21,.,-/3,POSTKASTEN,PRESSE,1
+194,Vegagasse,21,.,1/6,in den Postkasten,PRESSE,1
+195,Vegagasse,3,.,-/1,in den Postkasten mit dem Namen KÖB,PRESSE,1
+196,Vegagasse,4,.,.,POSTKASTEN,Kurier,1
+197,Weimarer Straße,100,.,-/2,AUF FUSSMATTE- intern,DER STANDARD,1
+198,Weimarer Straße,71,.,.,POSTKASTEN,KRONE,1
+199,Weimarer Straße,87,.,.,AUF FUSSMATTE- intern,PRESSE,1
+200,Weimarer Straße,88,.,.,POSTKASTEN,Kurier,1
+201,Weimarer Straße,96,.,.,POSTKASTEN,KRONE,1
+202,Weimarer Straße,98,.,-/3,AUF FUSSMATTE,Kurier,1
+203,Weimarer Straße,98,.,1/5,AUF FUSSMATTE,Kurier,1
+204,Weinberggasse,1,.,4/13,AUF FUSSMATTE,Kurier,1
+205,Weinberggasse,1,.,5/17,AUF FUSSMATTE,Kurier,1
